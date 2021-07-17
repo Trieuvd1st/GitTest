@@ -5,19 +5,3 @@ dấdad
 4
 change file 
 change file
-<<<<<<< HEAD
-add file after revert
-add file after revert
-add file after revert
-
-=======
-<<<<<<< HEAD
-text reset commit
-=======
-<<<<<<< HEAD
-change file
-=======
-change file
->>>>>>> parent of fd5f4d0 (merge after revert)
->>>>>>> parent of b9a7051 (fix conflic)
->>>>>>> parent of fc278e4 (remove confic after revert)
