@@ -1,1 +1,2 @@
 dấdad
+text test git reset thêm test test git reset
