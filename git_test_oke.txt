@@ -5,3 +5,5 @@ dấdad
 4
 change file 
 change file
+change file test reset commit 1
+change file test reset commit 1
