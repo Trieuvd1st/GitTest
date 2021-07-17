@@ -1,0 +1,16 @@
+    init {
+        gravity = Gravity.CENTER
+        val attributes =
+            context.theme.obtainStyledAttributes(attrs, R.styleable.ConfirmButtonPicking, 0, 0)
+
+        isActive = attributes.getBoolean(R.styleable.ConfirmButtonPicking_is_active, false)
+        textActive = attributes.getString(R.styleable.ConfirmButtonPicking_text_active) ?: "確認済"
+        textDeActive =
+            attributes.getString(R.styleable.ConfirmButtonPicking_text_de_active) ?: "未確認"
+        setState(isActive)
+
+        setOnClickListener {
+            isActive = !isActive
+            setState(isActive)
+        }
+    }
