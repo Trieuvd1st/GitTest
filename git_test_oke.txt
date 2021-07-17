@@ -1,8 +1,14 @@
-dấdad
 1
+2
 2
 3
 4
+<<<<<<< HEAD
 change file 
 change file
 change file
+=======
+sadasd
+fgsdgfdg
+rưerw
+fsdfsd
