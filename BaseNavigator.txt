@@ -1,0 +1,15 @@
+package com.example.picking
+
+import android.os.Bundle
+import com.example.core.navigationComponent.BaseNavigator
+
+interface PickingNavigation : BaseNavigator {
+
+    fun openWebDashboardToFindOrderScreen(bundle: Bundle? = null)
+
+    fun openPickingScreen(bundle: Bundle? = null)
+
+    fun openPackingScreen(bundle: Bundle? = null)
+
+    fun logout()
+}
