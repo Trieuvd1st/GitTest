@@ -1,4 +1,5 @@
 1234
+<<<<<<< HEAD
 change file in main branch 1
 change file in main branch 1
 change file in main branch 1
@@ -6,3 +7,13 @@ change file in main branch 1
 change file in main branch 2
 change file in main branch 2
 change file in main branch 2
+
+git test rebase in test rebase branch 1
+git test rebase in test rebase branch 1
+git test rebase in test rebase branch 1
+git test rebase in test rebase branch 1
+
+git test rebase in test rebase branch 2
+git test rebase in test rebase branch 2
+git test rebase in test rebase branch 2
+git test rebase in test rebase branch 2
