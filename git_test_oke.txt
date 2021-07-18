@@ -12,3 +12,8 @@ git test rebase in test rebase branch 1
 git test rebase in test rebase branch 1
 git test rebase in test rebase branch 1
 git test rebase in test rebase branch 1
+
+git test rebase in test rebase branch 2
+git test rebase in test rebase branch 2
+git test rebase in test rebase branch 2
+git test rebase in test rebase branch 2
